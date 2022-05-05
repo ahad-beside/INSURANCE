@@ -1,0 +1,5 @@
+[28-May-2016 00:29:49 America/Chicago] PHP Warning:  mkdir(): No such file or directory in /home/coder71/public_html/projects/insurance/index.php on line 9
+[28-May-2016 00:30:06 America/Chicago] PHP Warning:  mkdir(): No such file or directory in /home/coder71/public_html/projects/insurance/index.php on line 9
+[28-May-2016 00:32:45 America/Chicago] PHP Warning:  mkdir(): No such file or directory in /home/coder71/public_html/projects/insurance/index.php on line 10
+[28-May-2016 00:42:17 America/Chicago] PHP Warning:  mkdir(): No such file or directory in /home/coder71/public_html/projects/insurance/index.php on line 9
+[08-Nov-2018 12:51:42 Asia/Kabul] PHP Parse error:  syntax error, unexpected ')' in /home/democoder71/public_html/insurance/protected/views/mail/adminmail.php on line 427
